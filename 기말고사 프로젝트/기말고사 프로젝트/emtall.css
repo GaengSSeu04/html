@@ -1,0 +1,439 @@
+
+section {
+    height: auto;
+  }
+  header {
+    background-color: rgb(33, 33, 33);
+    height: 70px;
+    padding-bottom: 14px;
+    padding-left: 50px;
+  }
+  
+  header a h1, header a h2{
+    display: inline-block;
+    color: white;
+    margin-right: 30px;
+  }
+  
+  section h1 {
+    text-align: center;
+  }
+  
+  
+  .MANU {
+    display: inline-block;
+    background-color: rgb(243, 156, 18);
+    margin: 0 auto;
+    width: 100%;
+  }
+  .MANU h1 {
+    font-size: 18px;
+    color: white;
+  }
+  .brand {
+    display: inline-block;
+    width: 26%;
+  }
+  .GPU {
+    display: inline-block;
+    width: 7.5%;
+  }
+  .model {
+    display: inline-block;
+    width: 21%;
+  }
+  .mamole {
+    display: inline-block;
+    width: 5.5%;
+  }
+  .long {
+    display: inline-block;
+    width: 21.5%;
+  }
+  .MARKTS {
+    display: inline-block;
+    width: 9.5%;
+  }
+  
+  
+  .MANUSUB {
+    display: inline-block;
+    background-color: rgb(44, 62, 80);
+    margin: 0 auto;
+    width: 100%;
+  }
+  .MANUSUB h1 {
+    font-size: 15px;
+    color: white;
+  }
+  .BRAND1 {
+    display: inline-block;
+    margin-left: 193px;
+  }
+  .GPU1 {
+    display: inline-block;
+    margin-left: 216px;
+  }
+  .allmodel {
+    display: inline-block;
+    width: 23.5%;
+  }
+  .allmemory {
+    display: inline-block;
+    width: 3%;
+  }
+  .allmm {
+    display: inline-block;
+    width: 24%;
+  }
+  .allmarkts {
+    display: inline-block;
+    width: 6.75%;
+  }
+  
+  
+  .emt1 {
+    display: inline-block;
+    background-color: rgb(127, 127, 127);
+    margin: 0 auto;
+    width: 100%;
+  }
+  .emt1 h1 {
+    font-size: 14px;
+    color: white; 
+  }
+  .emtt1 {
+    display: inline-block;
+    width: 26%;
+  }
+  .emtgpu1 {
+    display: inline-block;
+    width: 7.5%;
+  }
+  .emtmodel1 {
+    display: inline-block;
+    width: 21%;
+  }
+  .emtmemory1 {
+    display: inline-block;
+    width: 5.5%;
+  }
+  .emtmm1 {
+    display: inline-block;
+    width: 21.5%;
+  }
+  .emtmarkts1 {
+    display: inline-block;
+    width: 9.5%;
+  }
+  .emt2 {
+    display: inline-block;
+    background-color: rgb(94, 94, 94);
+    margin: 0 auto;
+    width: 100%;
+  }
+  .emt2 h1 {
+    font-size: 14px;
+    color: white; 
+  }
+  .emtt2 {
+    display: inline-block;
+    width: 26%;
+  }
+  .emtgpu2 {
+    display: inline-block;
+    width: 7.5%;
+  }
+  .emtmodel2 {
+    display: inline-block;
+    width: 21%;
+  }
+  .emtmemory2 {
+    display: inline-block;
+    width: 5.5%;
+  }
+  .emtmm2 {
+    display: inline-block;
+    width: 21.5%;
+  }
+  .emtmarkts2 {
+    display: inline-block;
+    width: 9.5%;
+  }
+  .emt3 {
+    display: inline-block;
+    background-color: rgb(127, 127, 127);
+    margin: 0 auto;
+    width: 100%;
+  }
+  .emt3 h1 {
+    font-size: 14px;
+    color: white; 
+  }
+  .emtt3 {
+    display: inline-block;
+    width: 26%;
+  }
+  .emtgpu3 {
+    display: inline-block;
+    width: 7.5%;
+  }
+  .emtmodel3 {
+    display: inline-block;
+    width: 21%;
+  }
+  .emtmemory3 {
+    display: inline-block;
+    width: 5.5%;
+  }
+  .emtmm3 {
+    display: inline-block;
+    width: 21.5%;
+  }
+  .emtmarkts3 {
+    display: inline-block;
+    width: 9.5%;
+  }
+  .emt4 {
+    display: inline-block;
+    background-color: rgb(94, 94, 94);
+    margin: 0 auto;
+    width: 100%;
+  }
+  .emt4 h1 {
+    font-size: 14px;
+    color: white; 
+  }
+  .emtt4 {
+    display: inline-block;
+    width: 26%;
+  }
+  .emtgpu4 {
+    display: inline-block;
+    width: 7.5%;
+  }
+  .emtmodel4 {
+    display: inline-block;
+    width: 21%;
+  }
+  .emtmemory4 {
+    display: inline-block;
+    width: 5.5%;
+  }
+  .emtmm4 {
+    display: inline-block;
+    width: 21.5%;
+  }
+  .emtmarkts4 {
+    display: inline-block;
+    width: 9.5%;
+  }
+  .emt5 {
+    display: inline-block;
+    background-color: rgb(127, 127, 127);
+    margin: 0 auto;
+    width: 100%;
+  }
+  .emt5 h1 {
+    font-size: 14px;
+    color: white; 
+  }
+  .emtt5 {
+    display: inline-block;
+    width: 26%;
+  }
+  .emtgpu5 {
+    display: inline-block;
+    width: 7.5%;
+  }
+  .emtmodel5 {
+    display: inline-block;
+    width: 21%;
+  }
+  .emtmemory5 {
+    display: inline-block;
+    width: 5.5%;
+  }
+  .emtmm5 {
+    display: inline-block;
+    width: 21.5%;
+  }
+  .emtmarkts5 {
+    display: inline-block;
+    width: 9.5%;
+  }
+  .emt6 {
+    display: inline-block;
+    background-color: rgb(94, 94, 94);
+    margin: 0 auto;
+    width: 100%;
+  }
+  .emt6 h1 {
+    font-size: 14px;
+    color: white; 
+  }
+  .emtt6 {
+    display: inline-block;
+    width: 26%;
+  }
+  .emtgpu6 {
+    display: inline-block;
+    width: 7.5%;
+  }
+  .emtmodel6 {
+    display: inline-block;
+    width: 21%;
+  }
+  .emtmemory6 {
+    display: inline-block;
+    width: 5.5%;
+  }
+  .emtmm6 {
+    display: inline-block;
+    width: 21.5%;
+  }
+  .emtmarkts6 {
+    display: inline-block;
+    width: 9.5%;
+  }
+  .emt7 {
+    display: inline-block;
+    background-color: rgb(127, 127, 127);
+    margin: 0 auto;
+    width: 100%;
+  }
+  .emt7 h1 {
+    font-size: 14px;
+    color: white; 
+  }
+  .emtt7 {
+    display: inline-block;
+    width: 26%;
+  }
+  .emtgpu7 {
+    display: inline-block;
+    width: 7.5%;
+  }
+  .emtmodel7 {
+    display: inline-block;
+    width: 21%;
+  }
+  .emtmemory7 {
+    display: inline-block;
+    width: 5.5%;
+  }
+  .emtmm7 {
+    display: inline-block;
+    width: 21.5%;
+  }
+  .emtmarkts7 {
+    display: inline-block;
+    width: 9.5%;
+  }
+  .emt8 {
+    display: inline-block;
+    background-color: rgb(94, 94, 94);
+    margin: 0 auto;
+    width: 100%;
+  }
+  .emt8 h1 {
+    font-size: 14px;
+    color: white; 
+  }
+  .emtt8 {
+    display: inline-block;
+    width: 26%;
+  }
+  .emtgpu8 {
+    display: inline-block;
+    width: 7.5%;
+  }
+  .emtmodel8 {
+    display: inline-block;
+    width: 21%;
+  }
+  .emtmemory8 {
+    display: inline-block;
+    width: 5.5%;
+  }
+  .emtmm8 {
+    display: inline-block;
+    width: 21.5%;
+  }
+  .emtmarkts8 {
+    display: inline-block;
+    width: 9.5%;
+  }
+  .emt9 {
+    display: inline-block;
+    background-color: rgb(127, 127, 127);
+    margin: 0 auto;
+    width: 100%;
+  }
+  .emt9 h1 {
+    font-size: 14px;
+    color: white; 
+  }
+  .emtt9 {
+    display: inline-block;
+    width: 26%;
+  }
+  .emtgpu9 {
+    display: inline-block;
+    width: 7.5%;
+  }
+  .emtmodel9 {
+    display: inline-block;
+    width: 21%;
+  }
+  .emtmemory9 {
+    display: inline-block;
+    width: 5.5%;
+  }
+  .emtmm9 {
+    display: inline-block;
+    width: 21.5%;
+  }
+  .emtmarkts9 {
+    display: inline-block;
+    width: 9.5%;
+  }
+  .emt10 {
+    display: inline-block;
+    background-color: rgb(94, 94, 94);
+    margin: 0 auto;
+    width: 100%;
+  }
+  .emt10 h1 {
+    font-size: 14px;
+    color: white; 
+  }
+  .emtt10 {
+    display: inline-block;
+    width: 26%;
+  }
+  .emtgpu10 {
+    display: inline-block;
+    width: 7.5%;
+  }
+  .emtmodel10 {
+    display: inline-block;
+    width: 21%;
+  }
+  .emtmemory10 {
+    display: inline-block;
+    width: 5.5%;
+  }
+  .emtmm10 {
+    display: inline-block;
+    width: 21.5%;
+  }
+  .emtmarkts10 {
+    display: inline-block;
+    width: 9.5%;
+  }
+
+  li {
+    height: auto;
+    list-style: none;
+  }

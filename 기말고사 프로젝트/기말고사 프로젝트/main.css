@@ -1,0 +1,53 @@
+section {
+    height: auto;
+}
+header {
+    background-color: rgb(33, 33, 33);
+    height: 70px;
+    padding-bottom: 14px;
+    padding-left: 50px;
+}
+
+header a h1, header a h2{
+    display: inline-block;
+    color: white;
+    margin-right: 30px;
+}
+
+section h1 {
+    text-align: center;
+}
+.sub {
+    display: inline-block;
+    background-color: rgb(64, 64, 64);
+    margin: 0 auto;
+    width: 100%;
+    color: orange;
+}
+li {
+    height: auto;
+    list-style: none;
+}
+
+.img_1{
+    float: left;
+    margin-left: 200px;
+    margin-right: 80px;
+    width: 600px;
+    height: 400px;
+
+}
+
+.img_2{
+    margin-right: 200px;
+    margin-left: 80px;
+    width: 600px;
+    height: 400px;
+}
+footer div {
+    height: 80px;
+    background-color: rgb(33, 33, 33);
+    text-align: center;
+    padding-top: 20px;
+    color: white;
+}
