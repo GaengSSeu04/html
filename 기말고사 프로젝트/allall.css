@@ -1,0 +1,1402 @@
+
+section {
+  height: auto;
+}
+header {
+  background-color: rgb(33, 33, 33);
+  height: 70px;
+  padding-bottom: 14px;
+  padding-left: 50px;
+}
+
+header a h1, header a h2{
+  display: inline-block;
+  color: white;
+  margin-right: 30px;
+}
+
+section h1 {
+  text-align: center;
+}
+
+
+.MANU {
+  display: inline-block;
+  background-color: rgb(243, 156, 18);
+  margin: 0 auto;
+  width: 100%;
+}
+.MANU h1 {
+  font-size: 18px;
+  color: white;
+}
+.brand {
+  display: inline-block;
+  width: 26%;
+}
+.GPU {
+  display: inline-block;
+  width: 7.5%;
+}
+.model {
+  display: inline-block;
+  width: 21%;
+}
+.mamole {
+  display: inline-block;
+  width: 5.5%;
+}
+.long {
+  display: inline-block;
+  width: 21.5%;
+}
+.MARKTS {
+  display: inline-block;
+  width: 9.5%;
+}
+
+
+.MANUSUB {
+  display: inline-block;
+  background-color: rgb(44, 62, 80);
+  margin: 0 auto;
+  width: 100%;
+}
+.MANUSUB h1 {
+  font-size: 15px;
+  color: white;
+}
+.BRAND1 {
+  display: inline-block;
+  margin-left: 193px;
+}
+.GPU1 {
+  display: inline-block;
+  margin-left: 216px;
+}
+.allmodel {
+  display: inline-block;
+  width: 23.5%;
+}
+.allmemory {
+  display: inline-block;
+  width: 3%;
+}
+.allmm {
+  display: inline-block;
+  width: 24%;
+}
+.allmarkts {
+  display: inline-block;
+  width: 6.75%;
+}
+
+
+.emt1 {
+  display: inline-block;
+  background-color: rgb(127, 127, 127);
+  margin: 0 auto;
+  width: 100%;
+}
+.emt1 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.emtt1 {
+  display: inline-block;
+  width: 26%;
+}
+.emtgpu1 {
+  display: inline-block;
+  width: 7.5%;
+}
+.emtmodel1 {
+  display: inline-block;
+  width: 21%;
+}
+.emtmemory1 {
+  display: inline-block;
+  width: 5.5%;
+}
+.emtmm1 {
+  display: inline-block;
+  width: 21.5%;
+}
+.emtmarkts1 {
+  display: inline-block;
+  width: 9.5%;
+}
+.emt2 {
+  display: inline-block;
+  background-color: rgb(94, 94, 94);
+  margin: 0 auto;
+  width: 100%;
+}
+.emt2 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.emtt2 {
+  display: inline-block;
+  width: 26%;
+}
+.emtgpu2 {
+  display: inline-block;
+  width: 7.5%;
+}
+.emtmodel2 {
+  display: inline-block;
+  width: 21%;
+}
+.emtmemory2 {
+  display: inline-block;
+  width: 5.5%;
+}
+.emtmm2 {
+  display: inline-block;
+  width: 21.5%;
+}
+.emtmarkts2 {
+  display: inline-block;
+  width: 9.5%;
+}
+.emt3 {
+  display: inline-block;
+  background-color: rgb(127, 127, 127);
+  margin: 0 auto;
+  width: 100%;
+}
+.emt3 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.emtt3 {
+  display: inline-block;
+  width: 26%;
+}
+.emtgpu3 {
+  display: inline-block;
+  width: 7.5%;
+}
+.emtmodel3 {
+  display: inline-block;
+  width: 21%;
+}
+.emtmemory3 {
+  display: inline-block;
+  width: 5.5%;
+}
+.emtmm3 {
+  display: inline-block;
+  width: 21.5%;
+}
+.emtmarkts3 {
+  display: inline-block;
+  width: 9.5%;
+}
+.emt4 {
+  display: inline-block;
+  background-color: rgb(94, 94, 94);
+  margin: 0 auto;
+  width: 100%;
+}
+.emt4 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.emtt4 {
+  display: inline-block;
+  width: 26%;
+}
+.emtgpu4 {
+  display: inline-block;
+  width: 7.5%;
+}
+.emtmodel4 {
+  display: inline-block;
+  width: 21%;
+}
+.emtmemory4 {
+  display: inline-block;
+  width: 5.5%;
+}
+.emtmm4 {
+  display: inline-block;
+  width: 21.5%;
+}
+.emtmarkts4 {
+  display: inline-block;
+  width: 9.5%;
+}
+.emt5 {
+  display: inline-block;
+  background-color: rgb(127, 127, 127);
+  margin: 0 auto;
+  width: 100%;
+}
+.emt5 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.emtt5 {
+  display: inline-block;
+  width: 26%;
+}
+.emtgpu5 {
+  display: inline-block;
+  width: 7.5%;
+}
+.emtmodel5 {
+  display: inline-block;
+  width: 21%;
+}
+.emtmemory5 {
+  display: inline-block;
+  width: 5.5%;
+}
+.emtmm5 {
+  display: inline-block;
+  width: 21.5%;
+}
+.emtmarkts5 {
+  display: inline-block;
+  width: 9.5%;
+}
+.emt6 {
+  display: inline-block;
+  background-color: rgb(94, 94, 94);
+  margin: 0 auto;
+  width: 100%;
+}
+.emt6 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.emtt6 {
+  display: inline-block;
+  width: 26%;
+}
+.emtgpu6 {
+  display: inline-block;
+  width: 7.5%;
+}
+.emtmodel6 {
+  display: inline-block;
+  width: 21%;
+}
+.emtmemory6 {
+  display: inline-block;
+  width: 5.5%;
+}
+.emtmm6 {
+  display: inline-block;
+  width: 21.5%;
+}
+.emtmarkts6 {
+  display: inline-block;
+  width: 9.5%;
+}
+.emt7 {
+  display: inline-block;
+  background-color: rgb(127, 127, 127);
+  margin: 0 auto;
+  width: 100%;
+}
+.emt7 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.emtt7 {
+  display: inline-block;
+  width: 26%;
+}
+.emtgpu7 {
+  display: inline-block;
+  width: 7.5%;
+}
+.emtmodel7 {
+  display: inline-block;
+  width: 21%;
+}
+.emtmemory7 {
+  display: inline-block;
+  width: 5.5%;
+}
+.emtmm7 {
+  display: inline-block;
+  width: 21.5%;
+}
+.emtmarkts7 {
+  display: inline-block;
+  width: 9.5%;
+}
+.emt8 {
+  display: inline-block;
+  background-color: rgb(94, 94, 94);
+  margin: 0 auto;
+  width: 100%;
+}
+.emt8 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.emtt8 {
+  display: inline-block;
+  width: 26%;
+}
+.emtgpu8 {
+  display: inline-block;
+  width: 7.5%;
+}
+.emtmodel8 {
+  display: inline-block;
+  width: 21%;
+}
+.emtmemory8 {
+  display: inline-block;
+  width: 5.5%;
+}
+.emtmm8 {
+  display: inline-block;
+  width: 21.5%;
+}
+.emtmarkts8 {
+  display: inline-block;
+  width: 9.5%;
+}
+.emt9 {
+  display: inline-block;
+  background-color: rgb(127, 127, 127);
+  margin: 0 auto;
+  width: 100%;
+}
+.emt9 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.emtt9 {
+  display: inline-block;
+  width: 26%;
+}
+.emtgpu9 {
+  display: inline-block;
+  width: 7.5%;
+}
+.emtmodel9 {
+  display: inline-block;
+  width: 21%;
+}
+.emtmemory9 {
+  display: inline-block;
+  width: 5.5%;
+}
+.emtmm9 {
+  display: inline-block;
+  width: 21.5%;
+}
+.emtmarkts9 {
+  display: inline-block;
+  width: 9.5%;
+}
+.emt10 {
+  display: inline-block;
+  background-color: rgb(94, 94, 94);
+  margin: 0 auto;
+  width: 100%;
+}
+.emt10 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.emtt10 {
+  display: inline-block;
+  width: 26%;
+}
+.emtgpu10 {
+  display: inline-block;
+  width: 7.5%;
+}
+.emtmodel10 {
+  display: inline-block;
+  width: 21%;
+}
+.emtmemory10 {
+  display: inline-block;
+  width: 5.5%;
+}
+.emtmm10 {
+  display: inline-block;
+  width: 21.5%;
+}
+.emtmarkts10 {
+  display: inline-block;
+  width: 9.5%;
+}
+
+
+
+.glx1 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.glx1 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.glxx1 {
+  display: inline-block;
+  width: 26%;
+}
+.glxgpu1 {
+  display: inline-block;
+  width: 7.5%;
+}
+.glxmodel1 {
+  display: inline-block;
+  width: 21%;
+}
+.glxmemory1 {
+  display: inline-block;
+  width: 5.5%;
+}
+.glxmm1 {
+  display: inline-block;
+  width: 21.5%;
+}
+.glxmarkts1 {
+  display: inline-block;
+  width: 9.5%;
+}
+.glx2 {
+  display: inline-block;
+  background-color: rgb(94,94,94);
+  margin: 0 auto;
+  width: 100%;
+}
+.glx2 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.glxx2 {
+  display: inline-block;
+  width: 26%;
+}
+.glxgpu2 {
+  display: inline-block;
+  width: 7.5%;
+}
+.glxmodel2 {
+  display: inline-block;
+  width: 21%;
+}
+.glxmemory2 {
+  display: inline-block;
+  width: 5.5%;
+}
+.glxmm2 {
+  display: inline-block;
+  width: 21.5%;
+}
+.glxmarkts2 {
+  display: inline-block;
+  width: 9.5%;
+}
+.glx3 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.glx3 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.glxx3 {
+  display: inline-block;
+  width: 26%;
+}
+.glxgpu3 {
+  display: inline-block;
+  width: 7.5%;
+}
+.glxmodel3 {
+  display: inline-block;
+  width: 21%;
+}
+.glxmemory3 {
+  display: inline-block;
+  width: 5.5%;
+}
+.glxmm3 {
+  display: inline-block;
+  width: 21.5%;
+}
+.glxmarkts3 {
+  display: inline-block;
+  width: 9.5%;
+}
+.glx4 {
+  display: inline-block;
+  background-color: rgb(94,94,94);
+  margin: 0 auto;
+  width: 100%;
+}
+.glx4 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.glxx4 {
+  display: inline-block;
+  width: 26%;
+}
+.glxgpu4 {
+  display: inline-block;
+  width: 7.5%;
+}
+.glxmodel4 {
+  display: inline-block;
+  width: 21%;
+}
+.glxmemory4 {
+  display: inline-block;
+  width: 5.5%;
+}
+.glxmm4 {
+  display: inline-block;
+  width: 21.5%;
+}
+.glxmarkts4 {
+  display: inline-block;
+  width: 9.5%;
+}
+.glx5 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.glx5 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.glxx5 {
+  display: inline-block;
+  width: 26%;
+}
+.glxgpu5 {
+  display: inline-block;
+  width: 7.5%;
+}
+.glxmodel5 {
+  display: inline-block;
+  width: 21%;
+}
+.glxmemory5 {
+  display: inline-block;
+  width: 5.5%;
+}
+.glxmm5 {
+  display: inline-block;
+  width: 21.5%;
+}
+.glxmarkts5 {
+  display: inline-block;
+  width: 9.5%;
+}
+.glx6 {
+  display: inline-block;
+  background-color: rgb(94,94,94);
+  margin: 0 auto;
+  width: 100%;
+}
+.glx6 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.glxx6 {
+  display: inline-block;
+  width: 26%;
+}
+.glxgpu6 {
+  display: inline-block;
+  width: 7.5%;
+}
+.glxmodel6 {
+  display: inline-block;
+  width: 21%;
+}
+.glxmemory6 {
+  display: inline-block;
+  width: 5.5%;
+}
+.glxmm6 {
+  display: inline-block;
+  width: 21.5%;
+}
+.glxmarkts6 {
+  display: inline-block;
+  width: 9.5%;
+}
+.glx7 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.glx7 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.glxx7 {
+  display: inline-block;
+  width: 26%;
+}
+.glxgpu7 {
+  display: inline-block;
+  width: 7.5%;
+}
+.glxmodel7 {
+  display: inline-block;
+  width: 21%;
+}
+.glxmemory7 {
+  display: inline-block;
+  width: 5.5%;
+}
+.glxmm7 {
+  display: inline-block;
+  width: 21.5%;
+}
+.glxmarkts7 {
+  display: inline-block;
+  width: 9.5%;
+}
+.glx8 {
+  display: inline-block;
+  background-color: rgb(94,94,94);
+  margin: 0 auto;
+  width: 100%;
+}
+.glx8 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.glxx8 {
+  display: inline-block;
+  width: 26%;
+}
+.glxgpu8 {
+  display: inline-block;
+  width: 7.5%;
+}
+.glxmodel8 {
+  display: inline-block;
+  width: 21%;
+}
+.glxmemory8 {
+  display: inline-block;
+  width: 5.5%;
+}
+.glxmm8 {
+  display: inline-block;
+  width: 21.5%;
+}
+.glxmarkts8 {
+  display: inline-block;
+  width: 9.5%;
+}
+.glx9 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.glx9 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.glxx9 {
+  display: inline-block;
+  width: 26%;
+}
+.glxgpu9 {
+  display: inline-block;
+  width: 7.5%;
+}
+.glxmodel9 {
+  display: inline-block;
+  width: 21%;
+}
+.glxmemory9 {
+  display: inline-block;
+  width: 5.5%;
+}
+.glxmm9 {
+  display: inline-block;
+  width: 21.5%;
+}
+.glxmarkts9 {
+  display: inline-block;
+  width: 9.5%;
+}
+.glx10 {
+  display: inline-block;
+  background-color: rgb(94,94,94);
+  margin: 0 auto;
+  width: 100%;
+}
+.glx10 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.glxx10 {
+  display: inline-block;
+  width: 26%;
+}
+.glxgpu10 {
+  display: inline-block;
+  width: 7.5%;
+}
+.glxmodel10 {
+  display: inline-block;
+  width: 21%;
+}
+.glxmemory10 {
+  display: inline-block;
+  width: 5.5%;
+}
+.glxmm10 {
+  display: inline-block;
+  width: 21.5%;
+}
+.glxmarkts10 {
+  display: inline-block;
+  width: 9.5%;
+}
+
+
+
+.evga1 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.evga1 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.evgaa1 {
+  display: inline-block;
+  width: 26%;
+}
+.evgagpu1 {
+  display: inline-block;
+  width: 7.5%;
+}
+.evgamodel1 {
+  display: inline-block;
+  width: 21%;
+}
+.evgamemory1 {
+  display: inline-block;
+  width: 5.5%;
+}
+.evgamm1 {
+  display: inline-block;
+  width: 21.5%;
+}
+.evgamarkts1 {
+  display: inline-block;
+  width: 9.5%;
+}
+.evga2 {
+  display: inline-block;
+  background-color: rgb(94,94,94);
+  margin: 0 auto;
+  width: 100%;
+}
+.evga2 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.evgaa2 {
+  display: inline-block;
+  width: 26%;
+}
+.evgagpu2 {
+  display: inline-block;
+  width: 7.5%;
+}
+.evgamodel2 {
+  display: inline-block;
+  width: 21%;
+}
+.evgamemory2 {
+  display: inline-block;
+  width: 5.5%;
+}
+.evgamm2 {
+  display: inline-block;
+  width: 21.5%;
+}
+.evgamarkts2 {
+  display: inline-block;
+  width: 9.5%;
+}
+
+
+
+.giga1 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.giga1 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.gigaa1 {
+  display: inline-block;
+  width: 26%;
+}
+.gigagpu1 {
+  display: inline-block;
+  width: 7.5%;
+}
+.gigamodel1 {
+  display: inline-block;
+  width: 21%;
+}
+.gigamemory1 {
+  display: inline-block;
+  width: 5.5%;
+}
+.gigamm1 {
+  display: inline-block;
+  width: 21.5%;
+}
+.gigamarkts1 {
+  display: inline-block;
+  width: 9.5%;
+}
+.giga2 {
+  display: inline-block;
+  background-color: rgb(94,94,94);
+  margin: 0 auto;
+  width: 100%;
+}
+.giga2 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.gigaa2 {
+  display: inline-block;
+  width: 26%;
+}
+.gigagpu2 {
+  display: inline-block;
+  width: 7.5%;
+}
+.gigamodel2 {
+  display: inline-block;
+  width: 21%;
+}
+.gigamemory2 {
+  display: inline-block;
+  width: 5.5%;
+}
+.gigamm2 {
+  display: inline-block;
+  width: 21.5%;
+}
+.gigamarkts2 {
+  display: inline-block;
+  width: 9.5%;
+}
+.giga3 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.giga3 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.gigaa3 {
+  display: inline-block;
+  width: 26%;
+}
+.gigagpu3 {
+  display: inline-block;
+  width: 7.5%;
+}
+.gigamodel3 {
+  display: inline-block;
+  width: 21%;
+}
+.gigamemory3 {
+  display: inline-block;
+  width: 5.5%;
+}
+.gigamm3 {
+  display: inline-block;
+  width: 21.5%;
+}
+.gigamarkts3 {
+  display: inline-block;
+  width: 9.5%;
+}
+.giga4 {
+  display: inline-block;
+  background-color: rgb(94,94,94);
+  margin: 0 auto;
+  width: 100%;
+}
+.giga4 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.gigaa4 {
+  display: inline-block;
+  width: 26%;
+}
+.gigagpu4 {
+  display: inline-block;
+  width: 7.5%;
+}
+.gigamodel4 {
+  display: inline-block;
+  width: 21%;
+}
+.gigamemory4 {
+  display: inline-block;
+  width: 5.5%;
+}
+.gigamm4 {
+  display: inline-block;
+  width: 21.5%;
+}
+.gigamarkts4 {
+  display: inline-block;
+  width: 9.5%;
+}
+.giga5 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.giga5 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.gigaa5 {
+  display: inline-block;
+  width: 26%;
+}
+.gigagpu5 {
+  display: inline-block;
+  width: 7.5%;
+}
+.gigamodel5 {
+  display: inline-block;
+  width: 21%;
+}
+.gigamemory5 {
+  display: inline-block;
+  width: 5.5%;
+}
+.gigamm5 {
+  display: inline-block;
+  width: 21.5%;
+}
+.gigamarkts5 {
+  display: inline-block;
+  width: 9.5%;
+}
+.giga6 {
+  display: inline-block;
+  background-color: rgb(94,94,94);
+  margin: 0 auto;
+  width: 100%;
+}
+.giga6 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.gigaa6 {
+  display: inline-block;
+  width: 26%;
+}
+.gigagpu6 {
+  display: inline-block;
+  width: 7.5%;
+}
+.gigamodel6 {
+  display: inline-block;
+  width: 21%;
+}
+.gigamemory6 {
+  display: inline-block;
+  width: 5.5%;
+}
+.gigamm6 {
+  display: inline-block;
+  width: 21.5%;
+}
+.gigamarkts6 {
+  display: inline-block;
+  width: 9.5%;
+}
+.giga7 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.giga7 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.gigaa7 {
+  display: inline-block;
+  width: 26%;
+}
+.gigagpu7 {
+  display: inline-block;
+  width: 7.5%;
+}
+.gigamodel7 {
+  display: inline-block;
+  width: 21%;
+}
+.gigamemory7 {
+  display: inline-block;
+  width: 5.5%;
+}
+.gigamm7 {
+  display: inline-block;
+  width: 21.5%;
+}
+.gigamarkts7 {
+  display: inline-block;
+  width: 9.5%;
+}
+.giga8 {
+  display: inline-block;
+  background-color: rgb(94,94,94);
+  margin: 0 auto;
+  width: 100%;
+}
+.giga8 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.gigaa8 {
+  display: inline-block;
+  width: 26%;
+}
+.gigagpu8 {
+  display: inline-block;
+  width: 7.5%;
+}
+.gigamodel8 {
+  display: inline-block;
+  width: 21%;
+}
+.gigamemory8 {
+  display: inline-block;
+  width: 5.5%;
+}
+.gigamm8 {
+  display: inline-block;
+  width: 21.5%;
+}
+.gigamarkts8 {
+  display: inline-block;
+  width: 9.5%;
+}
+.giga9 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.giga9 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.gigaa9 {
+  display: inline-block;
+  width: 26%;
+}
+.gigagpu9 {
+  display: inline-block;
+  width: 7.5%;
+}
+.gigamodel9 {
+  display: inline-block;
+  width: 21%;
+}
+.gigamemory9 {
+  display: inline-block;
+  width: 5.5%;
+}
+.gigamm9 {
+  display: inline-block;
+  width: 21.5%;
+}
+.gigamarkts9 {
+  display: inline-block;
+  width: 9.5%;
+}
+.giga10 {
+  display: inline-block;
+  background-color: rgb(94,94,94);
+  margin: 0 auto;
+  width: 100%;
+}
+.giga10 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.gigaa10 {
+  display: inline-block;
+  width: 26%;
+}
+.gigagpu10 {
+  display: inline-block;
+  width: 7.5%;
+}
+.gigamodel10 {
+  display: inline-block;
+  width: 21%;
+}
+.gigamemory10 {
+  display: inline-block;
+  width: 5.5%;
+}
+.gigamm10 {
+  display: inline-block;
+  width: 21.5%;
+}
+.gigamarkts10 {
+  display: inline-block;
+  width: 9.5%;
+}
+
+
+
+.pny1 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.pny1 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.pnyy1 {
+  display: inline-block;
+  width: 26%;
+}
+.pnygpu1 {
+  display: inline-block;
+  width: 7.5%;
+}
+.pnymodel1 {
+  display: inline-block;
+  width: 21%;
+}
+.pnymemory1 {
+  display: inline-block;
+  width: 5.5%;
+}
+.pnymm1 {
+  display: inline-block;
+  width: 21.5%;
+}
+.pnymarkts1 {
+  display: inline-block;
+  width: 9.5%;
+}
+.pny2 {
+  display: inline-block;
+  background-color: rgb(94,94,94);
+  margin: 0 auto;
+  width: 100%;
+}
+.pny2 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.pnyy2 {
+  display: inline-block;
+  width: 26%;
+}
+.pnygpu2 {
+  display: inline-block;
+  width: 7.5%;
+}
+.pnymodel2 {
+  display: inline-block;
+  width: 21%;
+}
+.pnymemory2 {
+  display: inline-block;
+  width: 5.5%;
+}
+.pnymm2 {
+  display: inline-block;
+  width: 21.5%;
+}
+.pnymarkts2 {
+  display: inline-block;
+  width: 9.5%;
+}
+.pny3 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.pny3 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.pnyy3 {
+  display: inline-block;
+  width: 26%;
+}
+.pnygpu3 {
+  display: inline-block;
+  width: 7.5%;
+}
+.pnymodel3 {
+  display: inline-block;
+  width: 21%;
+}
+.pnymemory3 {
+  display: inline-block;
+  width: 5.5%;
+}
+.pnymm3 {
+  display: inline-block;
+  width: 21.5%;
+}
+.pnymarkts3 {
+  display: inline-block;
+  width: 9.5%;
+}
+.pny4 {
+  display: inline-block;
+  background-color: rgb(94,94,94);
+  margin: 0 auto;
+  width: 100%;
+}
+.pny4 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.pnyy4 {
+  display: inline-block;
+  width: 26%;
+}
+.pnygpu4 {
+  display: inline-block;
+  width: 7.5%;
+}
+.pnymodel4 {
+  display: inline-block;
+  width: 21%;
+}
+.pnymemory4 {
+  display: inline-block;
+  width: 5.5%;
+}
+.pnymm4 {
+  display: inline-block;
+  width: 21.5%;
+}
+.pnymarkts4 {
+  display: inline-block;
+  width: 9.5%;
+}
+.pny5 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.pny5 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.pnyy5 {
+  display: inline-block;
+  width: 26%;
+}
+.pnygpu5 {
+  display: inline-block;
+  width: 7.5%
+}
+.pnymodel5 {
+  display: inline-block;
+  width: 21%;
+}
+.pnymemory5 {
+  display: inline-block;
+  width: 5.5%;
+}
+.pnymm5 {
+  display: inline-block;
+  width: 21.5%;
+}
+.pnymarkts5 {
+  display: inline-block;
+  width: 9.5%;
+}
+.pny6 {
+  display: inline-block;
+  background-color: rgb(127,127,127);
+  margin: 0 auto;
+  width: 100%;
+}
+.pny6 h1 {
+  font-size: 14px;
+  color: white; 
+}
+.pnyy6 {
+  display: inline-block;
+  width: 26%;
+}
+.pnygpu6 {
+  display: inline-block;
+  width: 7.5%;
+}
+.pnymodel6 {
+  display: inline-block;
+  width: 21%;
+}
+.pnymemory6 {
+  display: inline-block;
+  width: 5.5%;
+}
+.pnymm6 {
+  display: inline-block;
+  width: 21.5%;
+}
+.pnymarkts6 {
+  display: inline-block;
+  width: 9.5%;
+}
+li {
+  height: auto;
+  list-style: none;
+}
